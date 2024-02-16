@@ -1,0 +1,233 @@
+@font-face {
+    font-family: Poppin;
+    src: url('Poppins-Regular.ttf');
+    src: url('Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: Poppin-thin;
+    src: url('Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: outfit;
+    src: url('Outfit-VariableFont_wght.ttf');
+}
+.bg-light {
+    background-color: transparent  !important;
+}
+.navbar-collapse{
+    flex-grow: 0  !important;
+}
+div#navbarSupportedContent ul li {
+    margin: 10px;
+}
+.right-banner img {
+    width: 100% !important;
+}
+.left-banner {
+    padding-top: 130px !important;
+}
+.left-banner {
+    font-family: Poppin !important;
+}
+.left-banner h2 {
+    text-align: left !important;
+    font-size: 50px;
+    letter-spacing: 4px;
+}
+.left-banner p {
+    font-family: Poppin-thin;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: gray !important;
+}
+.left-banner p {
+    margin: 18px 0;
+}
+.banner-input input {
+    border-radius: 5px;
+    box-shadow: 3px 7px 27px 2px #8080803d;
+    border: none;
+    padding: 10px;
+}
+.banner-input button {
+    font-size: 14px;
+    border-radius: 2px;
+    font-family: Poppin-thin;
+    padding: 11px 20px;
+    border: none !important;
+    color: white !important;
+    background: #72bf4b;
+    margin-left: 10px !important;
+}
+.left-section-banner {
+    padding-top: 130px !important;
+}
+.left-section-banner {
+    font-family: Poppin !important;
+}
+.left-section-banner h2 {
+    text-align: left !important;
+    font-size: 50px;
+    letter-spacing: 4px;
+}
+.left-section-banner p {
+    text-align: left !important;
+    font-family: Poppin-thin;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: gray !important;
+}
+.left-section-banner p {
+    margin: 18px 0;
+}
+.left-section-banner h1 {
+    text-align: left !important;
+    color: #e5be00;
+    font-family: 'Poppin-thin';
+    font-size: 20px !important;
+}
+.left-section-banner h2 {
+    font-weight: 500 !important;
+    font-size: 32px !important;
+}
+.left-section-banner p {
+    color: gray !important;
+    line-height: 30px;
+}
+.first-column {
+    background: #76af060f;
+    text-align: center;
+    padding: 30px 35px;
+}
+.first-column:hover {
+    box-shadow: 3px 7px 27px 2px #8080803d;
+    border-bottom: 2px solid green !important;
+    background: transparent;
+    border-bottom: green;
+}
+.three-section {
+    padding: 80px 0px;
+}
+.three-section h1 {
+    color: #e5be00;
+    font-family: 'Poppin-thin';
+    font-size: 20px !important;
+}
+.three-section h2 {
+    margin-bottom: 5%;
+    font-family: "outfit";
+    font-weight: 600 !important;
+    font-size: 32px !important;
+}
+.three-section h1, h2, h1 {
+    text-align: center;
+}
+.first-column p {
+    font-family: 'outfit';
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: gray !important;
+}
+.first-column h3 {
+    line-height: 45px;
+    font-size: 25px;
+    font-family: 'outfit';
+    font-weight: 600;
+}
+.left-section-banner {
+    padding-top: 130px !important;
+}
+.left-section-banner {
+    font-family: Poppin !important;
+}
+.left-section-banner h2 {
+    font-size: 50px;
+    letter-spacing: 4px;
+}
+.left-section-banner p {
+    font-family: Poppin-thin;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: gray !important;
+}
+.left-section-banner p {
+    margin: 18px 0;
+}
+.second-last-section img {
+    text-align: center !important;
+    width: 75% !important;
+}
+.three-section {
+    padding: 65px 0px 20px 0px;
+}
+.second-last-section {
+    padding: 40px 0px;
+}
+.second-last-section img {
+    text-align: center !important;
+    width: 30vw !important;
+    margin: 0 auto !important;
+}
+.first-btmlast-column img {
+    width: 100%;
+}
+.first-btmlast-column img {
+    border-radius: 10px;
+}
+.left-btmlast-banner {
+    font-family: Poppin !important;
+}
+.left-btmlast-banner h2 {
+    text-align: left !important;
+    font-size: 50px;
+    letter-spacing: 4px;
+}
+.left-btmlast-banner p {
+    text-align: left !important;
+    font-family: Poppin-thin;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: gray !important;
+}
+.left-btmlast-banner p {
+    margin: 18px 0;
+}
+.left-btmlast-banner h1 {
+    text-align: left !important;
+    color: #e5be00;
+    font-family: 'Poppin-thin';
+    font-size: 20px !important;
+}
+.left-btmlast-banner h2 {
+    font-weight: 500 !important;
+    font-size: 32px !important;
+}
+.left-btmlast-banner p {
+    color: gray !important;
+    line-height: 30px;
+}
+.first-bottom-column img {
+    width: 100% !important;
+}
+.left-btmlast-banner {
+    padding-top: 20px !important;
+}
+.first-btmlast-column img {
+    object-fit: cover !important;
+    overflow: hidden;
+    height: 40vh;
+    width: 100%;
+}
+.left-btmlast-banner h2 {
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    font-family: 'outfit';
+}
+.left-btmlast-banner button {
+    background: transparent;
+    color: #e5be00 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
